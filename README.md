@@ -1,44 +1,26 @@
-<h1 align="center">Hi there!! 🤘 </h1>
+# Higor Allan
 
-![c633c20ede82f0e0ced7d570dbe3a1f3](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
+Software engineer
 
-<div align='center'>
-  <a href="https://github.com/HigorAln">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=HigorAln&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HigorAln&layout=compact&langs_count=7&theme=radical"/>
-</div>
-  
-  
-## ⚔ Explored technologies
+[![Twitter Badge](https://img.shields.io/badge/-@HigorAllan4-00875f?style=flat-square&labelColor=00875f&logo=twitter&logoColor=white&link=https://twitter.com/HigorAllan4)](https://twitter.com/HigorAllan4)
+[![Linkedin Badge](https://img.shields.io/badge/-Higor%20Allan-00875f?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/higor-allan/)](https://www.linkedin.com/in/higor-allan/) 
+[![Gmail Badge](https://img.shields.io/badge/-higor.allan21@gmail.com-00875f?style=flat-square&logo=Gmail&logoColor=white&link=mailto:higor.allan21@gmail.com)](mailto:higor.allan21@gmail.com)
 
-  <div style="display: inline_block"><br>
-  <img align="center" alt="Next" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="TailwindCss" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
-  <img align="center" alt="Mongodb" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
-  <img align="center" alt="Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-  <img align="center" alt="Sass" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
-  <img align="center" alt="GraphQl" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" />
-  <img align="center" alt="Express" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" />
-  <img align="center" alt="Jamstack" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jamstack/jamstack-original.svg" />
-  <img align="center" alt="Jest" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
-  <img align="center" alt="Nodejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img align="center" alt="Redux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
-</div>
-  <br/>
-  
-  <div> 
-    <a href="https://www.twitter.com/HigorAllan4" target="_blank">
-      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-    </a>
-    <a href = "mailto:higor.allan21@gmail.com">
-      <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-    </a>
-    <a href="https://www.linkedin.com/in/higor-allan-a9192b219/" target="_blank">
-      <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-    </a> 
-  </div>
-  
-![Snake animation](https://github.com/HigorAln/HigorAln/blob/output/github-contribution-grid-snake.svg)
+Enthusiast in the field of software development.
+
+I love Programming, is my job and is my hobby.<br>
+Student forever, improving one percent every day. Always looking to update myself in the most current technologies, always learning.
+
+```
+  {
+    "tecnologies": {
+      "ReactJs": "90%",
+      "Typescript": "80%",
+      "Nodejs": "60%",
+      "React-Native": "70%",
+    }
+  }
+```
+
+"Everyday is a bank account, and time is our currency. No one is rich. no one is poor, we've go 24 hours each." <br> 
+{" "} Christopher rice
