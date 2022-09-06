@@ -13,12 +13,12 @@ Student forever, improving one percent every day. Always looking to update mysel
 
 ```
   {
-    "tecnologies": {
-      "ReactJs": "90%",
-      "Typescript": "80%",
-      "Nodejs": "60%",
-      "React-Native": "70%",
-    }
+    "tecnologies": [
+      "ReactJs",
+      "Typescript",
+      "Nodejs",
+      "React-Native",
+    ]
   }
 ```
 
