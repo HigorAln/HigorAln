@@ -22,5 +22,5 @@ Student forever, improving one percent every day. Always looking to update mysel
   }
 ```
 
-"Everyday is a bank account, and time is our currency. No one is rich. no one is poor, we've go 24 hours each." <br> 
+"Everyday is a bank account, and time is our currency. No one is rich. no one is poor, we've got 24 hours each." <br> 
 {" "} Christopher rice
