@@ -7,7 +7,7 @@ Software engineer
 [![Gmail Badge](https://img.shields.io/badge/-higor.allan21@gmail.com-00875f?style=flat-square&logo=Gmail&logoColor=white&link=mailto:higor.allan21@gmail.com)](mailto:higor.allan21@gmail.com)
 
 
-Enthusiast in the field of software development. you can see my <a href="https://higorallan.com">website</a> too.
+Enthusiast in the field of software development. you can see my <a href="https://higorallan.com" target="_blank">website</a> too.
 
 I love Programming, is my job and is my hobby.<br>
 Student forever, improving one percent every day. Always looking to update myself in the most current technologies, always learning.
