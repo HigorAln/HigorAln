@@ -18,8 +18,6 @@ Student forever, improving one percent every day. Always looking to update mysel
       "ReactJs",
       "Typescript",
       "Nodejs",
-      "React-Native",
-      "Rust",
     ]
   }
 ```
